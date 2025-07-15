@@ -19,7 +19,7 @@ This project demonstrates a Python Flask web application integrated with Auth0 f
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/jaspreet1388/flask-auth0-app.git
+git clone https://github.com/Malikakshay619/cst8919_Assignment_1.git
 cd flask-auth0-app
 ```
 ---
@@ -85,6 +85,4 @@ flask run
 ```
 
 ### Then visit: http://localhost:5000
-
-### Demo Youtube URL -  https://www.youtube.com/watch?v=Iw-LK5xXB3k
 
